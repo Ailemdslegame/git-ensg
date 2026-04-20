@@ -1,1 +1,1 @@
-Ceci est une *meilleure* documentation
+Ceci est une *meilleure* documentation *sentimentale*
